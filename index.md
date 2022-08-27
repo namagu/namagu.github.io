@@ -5,7 +5,7 @@ landing-title: "Hi! I'm Natalia"
 description:
 image: null
 author: null
-show_tile: true
+show_tile: false
 ---
 
-I am an astronomy PhD student at UF.
+Here is some more text I can add.

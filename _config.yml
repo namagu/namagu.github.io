@@ -1,9 +1,9 @@
 # site settings
 title: Natalia Guerrero
-subtitle: sdfasd
+subtitle: 
 email: nmg@mit.edu
 description: Astronomer | Artist | Science communicator
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
