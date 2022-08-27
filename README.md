@@ -3,12 +3,14 @@
 Under construction. See [nataliaguerrero.space](https://nataliaguerrero.space) for
 my primary website.
 
-Thank you to @marimeireles, @eblur, and @woccode for teaching me how to do this!
+Thank you to [@marimeireles](https://github.com/marimeireles),
+[@eblur](https://github.com/eblur),
+and [@woccode](https://github.com/woccode) for teaching me how to do this!
 
 # Credits
 
 [A Jekyll version of the "Forty" theme](https://github.com/andrewbanchich/Forty-Jekyll-Theme) by [HTML5 UP](https://html5up.net/) by
-@andrewbanchich
+[@andrewbanchich](https://github.com/andrewbanchich)
 
 Original README from HTML5 UP:
 
