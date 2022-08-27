@@ -3,6 +3,8 @@
 Under construction. See [nataliaguerrero.space](https://nataliaguerrero.space) for
 my primary website.
 
+Thank you to @marimeireles, @eblur, and @woccode for teaching me how to do this!
+
 # Credits
 
 [A Jekyll version of the "Forty" theme](https://github.com/andrewbanchich/Forty-Jekyll-Theme) by [HTML5 UP](https://html5up.net/) by
