@@ -1,7 +1,7 @@
 # site settings
 title: Natalia Guerrero
 subtitle: 
-email: nmg@mit.edu
+email: nmg@space.mit.edu
 description: Astronomer | Artist | Science communicator
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -14,7 +14,7 @@ country:
 phone:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
@@ -42,3 +42,11 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md
+
+# treat things in _posts as posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
