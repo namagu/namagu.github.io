@@ -2,7 +2,7 @@
 layout: post
 title: "Project 01: Netting the Subaltern"
 description: "My artistic research notes."
-image: "/assets/images/my-image.jpg"
+image: "assets/images/2026-09-13%2011.29.36.jpg"
 ---
 
 # my first project 
